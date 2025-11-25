@@ -1,3 +1,6 @@
+版权属于https://github.com/1830488003/my-world-book-momo，个人仅为方便微调使用fork了一版，侵立删
+
+
 # 我的世界书 (Momo) - My World Book (Momo)
 
 **一个为 SillyTavern 设计的、功能强大且高度专业化的世界书（Lorebook）管理与AI辅助创作扩展。**
