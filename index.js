@@ -950,7 +950,7 @@ ${wholeBookContent}
 
             rawAiResponse = await tavernHelperApi.generateRaw({
                 ordered_prompts: [{ role: 'user', content: finalPrompt }],
-                max_new_tokens: 4096, // 根据需要调整
+                max_new_tokens: 63396, // 根据需要调整
             });
             momoAiResponse.val(rawAiResponse); // 立即显示原始回复
 
