@@ -1,4 +1,5 @@
-版权属于https://github.com/1830488003/my-world-book-momo
+版权属于 原作者1830488003
+https://github.com/1830488003/my-world-book-momo
 个人仅为方便微调使用fork了一版，侵立删
 
 
